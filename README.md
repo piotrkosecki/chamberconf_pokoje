@@ -1,8 +1,9 @@
 # chamberconf_pokoje
 
 # Osoby, ktore nie maja preferencji, co do pokoju
+- 
 
-## Część pałacowa
+## Część pałacowa (33 miejsca)
 
 | Numer pokoju        | Numer biletu          | 
 | ------------------- |-----------------------|
@@ -41,8 +42,7 @@
 |                     |                       |
 
 
-
-## Podzamcze
+## Podzamcze (24 miejsca)
 
 | Numer pokoju        | Numer biletu          | 
 | ------------------- |-----------------------|
@@ -71,8 +71,19 @@
 |                     |                       |
 |                     |                       |
 
-## Turystyczne
+## Turystyczne (9 miejsc)
 
+| Numer pokoju        | Numer biletu          | 
+| ------------------- |-----------------------|
+| A                   |                       |
+|                     |                       |
+| B                   |                       |
+| C                   |                       |
+| D                   |                       |
+|                     |                       |
+|                     |                       |
+| E                   |                       |
+|                     |                       |
 
-## Hotel
+## Hotel (10 miejsc)
 
